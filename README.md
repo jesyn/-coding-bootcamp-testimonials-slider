@@ -23,8 +23,9 @@ Users should be able to:
 
 ### Screenshot
 
-![](./docs/screenshot.png)
-![](./docs/screenshot1.png)
+![](./mobile.jpg)
+![](./tablet.jpg)
+![](./desktop.jpg)
 
 ### Links
 
